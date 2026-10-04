@@ -1,4 +1,4 @@
-"# CompressionSoftware" 
+# CompressionSoftware
 ## This is a simple compression and decompression software used to create .huff extension files by using the famous HUFFMAN Algorithm, this project is intended to put the skills learned to be put in use, by creating a visually understandable user experience.
 
 ## Home
